@@ -107,7 +107,7 @@ const EditLogModal = ({ current, updateLog }) => {
 
 const modalStyle = {
   width: '75%',
-  height: '50%',
+  height: '75%',
 };
 
 EditLogModal.propTypes = {
