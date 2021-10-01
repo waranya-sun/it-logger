@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/waranya-sun/it-logger.git/static/css/main.afd7172b.chunk.css",
-    "main.js": "/waranya-sun/it-logger.git/static/js/main.b97f053e.chunk.js",
-    "main.js.map": "/waranya-sun/it-logger.git/static/js/main.b97f053e.chunk.js.map",
-    "runtime-main.js": "/waranya-sun/it-logger.git/static/js/runtime-main.7dcfa7b6.js",
-    "runtime-main.js.map": "/waranya-sun/it-logger.git/static/js/runtime-main.7dcfa7b6.js.map",
-    "static/css/2.1eaa27c4.chunk.css": "/waranya-sun/it-logger.git/static/css/2.1eaa27c4.chunk.css",
-    "static/js/2.8bfe773f.chunk.js": "/waranya-sun/it-logger.git/static/js/2.8bfe773f.chunk.js",
-    "static/js/2.8bfe773f.chunk.js.map": "/waranya-sun/it-logger.git/static/js/2.8bfe773f.chunk.js.map",
-    "index.html": "/waranya-sun/it-logger.git/index.html",
-    "static/css/2.1eaa27c4.chunk.css.map": "/waranya-sun/it-logger.git/static/css/2.1eaa27c4.chunk.css.map",
-    "static/css/main.afd7172b.chunk.css.map": "/waranya-sun/it-logger.git/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.8bfe773f.chunk.js.LICENSE.txt": "/waranya-sun/it-logger.git/static/js/2.8bfe773f.chunk.js.LICENSE.txt"
+    "main.css": "/it-logger/static/css/main.afd7172b.chunk.css",
+    "main.js": "/it-logger/static/js/main.b97f053e.chunk.js",
+    "main.js.map": "/it-logger/static/js/main.b97f053e.chunk.js.map",
+    "runtime-main.js": "/it-logger/static/js/runtime-main.6eba543a.js",
+    "runtime-main.js.map": "/it-logger/static/js/runtime-main.6eba543a.js.map",
+    "static/css/2.1eaa27c4.chunk.css": "/it-logger/static/css/2.1eaa27c4.chunk.css",
+    "static/js/2.8bfe773f.chunk.js": "/it-logger/static/js/2.8bfe773f.chunk.js",
+    "static/js/2.8bfe773f.chunk.js.map": "/it-logger/static/js/2.8bfe773f.chunk.js.map",
+    "index.html": "/it-logger/index.html",
+    "static/css/2.1eaa27c4.chunk.css.map": "/it-logger/static/css/2.1eaa27c4.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/it-logger/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.8bfe773f.chunk.js.LICENSE.txt": "/it-logger/static/js/2.8bfe773f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dcfa7b6.js",
+    "static/js/runtime-main.6eba543a.js",
     "static/css/2.1eaa27c4.chunk.css",
     "static/js/2.8bfe773f.chunk.js",
     "static/css/main.afd7172b.chunk.css",
